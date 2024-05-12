@@ -1,3 +1,9 @@
 m1
 m2
+<<<<<<< HEAD
 hmm
+=======
+hello
+d1
+d2
+>>>>>>> e324ee9bc8a7cbfc4a45444b5b80bb2e7af9c5fa
